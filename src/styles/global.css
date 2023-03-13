@@ -34,7 +34,7 @@ h6 {
 /* CSS variables inspired by https://open-props.style/ */
 :root {
   /* colors */
-  --_hue: 20;
+  --_hue: 235;
 
   /* Light Mode */
   --bkg--light: var(--_hue) 25% 97%;
@@ -485,9 +485,19 @@ button {
     margin-block: var(--space-md);
   }
 
+  
+
   & img {
     box-shadow: var(--shadow-sm);
     object-fit: cover;
+  }
+
+  & p {
+    display: -webkit-box;
+    overflow : hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical; 
   }
 
   & a {
