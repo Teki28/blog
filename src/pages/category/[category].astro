@@ -7,25 +7,43 @@ import PostCard from "../../components/PostCard.astro";
 import { slugify, formatBlogPosts } from "../../js/utils";
 
 export async function getStaticPaths() {
-  return [
-    {
-      params: { category: slugify("Reference Docs") },
-      props: { name: "Reference Docs" },
-    },
-    {
-      params: { category: slugify("General") },
-      props: { name: "General" },
-    },
-    {
-      params: { category: slugify("CSS") },
-      props: { name: "CSS" },
-    },
-    {
-      params: { category: slugify("Astro") },
-      props: { name: "Astro" },
-    },
+  const allPosts = await Astro.glob("../blog/*.md");
+  const formattedPosts = formatBlogPosts(allPosts);
+  const allCategories = [
+    ...new Set(formattedPosts.map((post) => post.frontmatter.category).flat()),
   ];
+  return allCategories.map((cat) => {
+    const authorPosts = formattedPosts.filter(
+      (post) => post.frontmatter.category === cat
+    );
+    return {
+      params: { category: slugify(cat) },
+      props: {
+        name: cat
+      },
+    };
+  });
 }
+// export async function getStaticPaths() {
+//   return [
+//     {
+//       params: { category: slugify("Reference Docs") },
+//       props: { name: "Reference Docs" },
+//     },
+//     {
+//       params: { category: slugify("General") },
+//       props: { name: "General" },
+//     },
+//     {
+//       params: { category: slugify("CSS") },
+//       props: { name: "CSS" },
+//     },
+//     {
+//       params: { category: slugify("Astro") },
+//       props: { name: "Astro" },
+//     },
+//   ];
+// }
 
 const { category } = Astro.params;
 const { name } = Astro.props;
