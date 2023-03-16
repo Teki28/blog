@@ -9,7 +9,7 @@ image: {
 }
 description: 很多次想要给自己留下一些东西，每逢下笔时又不知从何写起。直到某一个瞬间，突然意识到：原来我已经在这里生活了整整一年了，原来我明天就要离开东京了。
 draft: false
-category: Coding
+category: Life
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/185759340&color=%23393f42&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realest-new-hip-hop" title="Realest New Hip Hop" target="_blank" style="color: #cccccc; text-decoration: none;">Realest New Hip Hop</a> · <a href="https://soundcloud.com/realest-new-hip-hop/j-cole-love-yourz-2014-forest-hill-drive" title="J Cole - Love Yourz (2014 Forest Hill Drive)" target="_blank" style="color: #cccccc; text-decoration: none;">J Cole - Love Yourz (2014 Forest Hill Drive)</a></div>
 很多次想要给自己留下一些东西，每逢下笔时又不知从何写起。直到某一个瞬间，突然意识到：原来我已经在这里生活了整整一年了，原来我明天就要离开东京了。
