@@ -1,27 +1,102 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: Running out of sample post ideas
-date: 2022-11-25
-author: Victoria Greenfelder
+title: 当我读书时我在想些什么
+date: 2019-01-27
+author: Teki
 image: {
-  src: "/images/post-2.jpg",
-  alt: "A picture of a coder",
+  src: "/public/images/当我在读书时我在想些什么/coverImg.jpeg",
+  alt: "Cover Image",
 }
-description: Sometimes you just run out of ideas for sample blog posts. It’s no one’s fault, it’s just the way it is.
+description: 一些最近读过的书和记下来的句子。
 draft: false
-category: General
+category: Reading
+---
+过去我总爱去追逐一些虚无缥缈的东西，失去的无奈、生活的苦痛、南墙上的头破血流，这些我自以为很酷的东西，像镜中花、水中月，愈是不得，就愈是发出诱人的芬芳味道。现实生活的平淡与琐碎强迫自己将诉求寄托到了文字和影像中，从郭敬明到韩寒，从《左耳》到《被窝是青春的坟墓》，故事千万种，主题翻来覆去却只有一个——失去。或是得而复失，或是失去所有，无论以何种形式，故事里的男孩、女孩儿总是在失去一些看似很重要的东西，所谓青春、所谓爱。现在想来，终究不过是生硬地往生活这碗刚刚好的麻辣烫里加上一大勺催泪的辣椒油，为赋新词强说愁罢了。后来，不知从什么时候，我开始发现了这碗麻辣烫的好味。我依然可以为之流泪，但不再需要那一大勺辣椒油。我开始觉得，能够认真地吃完这碗麻辣烫，放下筷子说一声“ご馳走さま”也是一件很酷、很不容易的事情。我开始读早期的三毛、读王小波，从那些平淡真实的语言中，我嗅到了生活的原本味道。我发现，相比失去，得到才是生活永恒不变的主题。无垠的沙漠中也藏着无限的乐趣，压抑的日子里也有简单的美好。热力学第二定律告诉我们：任何孤立系统的熵都不会自发地减少。有人说人生也是这样，时间推移，我们变得愈发无序、混乱，直至消亡。但是我始终觉得：读书可以让我们变得清醒、有序，可以让我们实现所谓的熵减。仔细一想，其实我已经有很长时间没能认真地读完一本书了，这次整理的摘抄也有大半是过去的遗留品。希望我可以用这个假期，好好地读几本书。                                                 ---题记
+
 ---
 
-Nisi duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
+### 浮生物语
 
-## Kinda Sus
+且行善举，莫问前程。
 
-Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
+失去的东西最终都会回到我们身边，虽然有时并不是以我们所期待的方式。
 
-Officia tempor voluptate enim consequat cillum aute fugiat cupidatat incididunt magna labore in commodo. Eiusmod nostrud non deserunt. Incididunt excepteur pariatur magna. Proident aute ad in velit labore enim sit cillum ad mollit proident et qui. Esse sunt ullamco ullamco ipsum enim eu esse id eu exercitation laboris magna Lorem. Anim nostrud officia anim velit do exercitation labore mollit excepteur excepteur ex.
+有时候，所谓礼貌，不过是拒人千里的工具。
 
-## Is anyone reading these?
+他一生活得痛快，只因他拒绝活在别人的眼睛和嘴巴里。
 
-Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea elit eiusmod tempor ea qui dolor Lorem laborum adipisicing. Ad ea laboris qui cupidatat deserunt culpa. Nulla ex velit adipisicing proident fugiat deserunt sunt eu adipisicing sint incididunt quis qui. Nulla fugiat labore duis ullamco reprehenderit excepteur laboris tempor ullamco aliquip laborum aliqua. Est tempor nisi magna ut elit pariatur commodo.
+一个连近在身边的珍贵之物都看不到的人，又能看到多远的理想？
 
-Labore commodo do incididunt amet ad et exercitation magna veniam veniam aute laboris excepteur occaecat Lorem. Fugiat in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequat est. Fugiat mollit elit nulla. Sit minim est elit labore. Sunt eu pariatur pariatur ut deserunt nulla labore in non sit tempor voluptate ex.
+我和你一样，都是容易害怕的。好多事我们以为是退一步海阔天空，可是退的次数太多，就把什么都退没了。
+
+我们无法预知未来，但正因为未来充满了各种变数，生活才变得有意义，只要我们真诚的天性不曾改变，我们努力的目标不曾改变，我们充满希望的期待不曾改变。
+
+昨夜月光、儿时梦话、离开的人、死去的心，又怎能寻回？
+
+### 了不起的盖茨比
+
+他等了足足五年，买下一座大厦，还在那里把星光施予一群来来往往的飞蛾，为的竟然只是在某个下午可以到一个陌生人的花园里”坐一坐“。
+
+再多的激情和活力都及不上一个人悲凄的心里所能聚集的情思。
+
+最后盖茨比终于停下，不再说话，只剩下他那渐渐死去的梦仍勉强随着下午的消逝而继续奋斗，拼命想要接触那不再能够摸得着的东西，痛苦却并不绝望地挣扎着。
+
+盖茨比是如此信奉这盏绿灯，相信这个极乐的未来，虽然它一年年的在我们眼前远去。它曾经从我们的追求中逃脱出来，不过没关系，明天我们可以跑得更快一些，将胳臂伸得更远一些，总有一天，总有一天......
+
+我们拼命地向前划着，然而却陷在逆流而上的小舟里，不停地倒退，不停地倒退，回到了过去。
+
+### 追风筝的人
+
+我不记得那是何年何月的事情。我只知道记忆与我同在，将美好的往事完美地浓缩起来，如同一笔浓墨重彩，涂抹在我们那已经变得灰白单调的生活画布上。
+
+对我来说，美国是个埋葬往事的地方。
+
+对爸爸来说，美国是个哀悼过去的地方。
+
+美国是河流，奔腾前进，往事无人提起。我可以蹚进这条大川，让自己的罪恶沉在最深处，让流水把我带往远方，带往没有鬼魂、没有往事、没有罪恶的地方。
+
+我生命中有过这么多美好的事情，这么多幸福的事情，我寻思自己究竟哪点配得上这些。
+
+### 霍乱时期的爱情
+
+他还太年轻，尚不知道回忆总是会抹去坏的，夸大好的，而也正是由于这种玄妙，我们才得以承担过去的重负。
+
+在这个轻浮的世俗天堂，最显著的特征就是对陌生事物的恐惧。
+
+同船长和塞娜依达猜想的不同，他们之间的感觉并不像新婚燕尔的夫妇，更不像相聚恨晚的情人。他们仿佛一举越过了漫长艰辛的夫妻生活，义无反顾地直达爱情的核心。他们像一对经历了生活磨练的老夫老妻，在宁静中超越了激情的陷阱，超越了幻想的无情嘲弄和醒悟的海市蜃楼:超越了爱情。因为他们已在一起生活了足够长时间，足以发现无论何时何地，爱情始终都是爱情，只不过距离死亡越近，爱就越浓郁。
+
+船长看了看费尔明娜・达萨，在她睫毛上看到初霜的闪光。然后，他又看了看弗洛伦蒂诺・阿里萨，看到的是他那不可战胜的决心和痛苦无畏的爱。这份迟来的顿悟使他吓了一跳，原来是生命，而非死亡，才是没有止境的。
+
+＂见鬼，那您认为我们这样来来回回的究竟走到什么时候？"他问。
+
+在五十三年七个月零十一天以来的日日夜夜，弗洛伦蒂诺・阿里萨一直都准备好了答案。
+
+”一生一世。“他说。
+
+### 黄金时代
+
+我在实验室踱步，忽然觉得生活很无趣，它好像是西藏的一种酷刑:把人用湿牛皮裹起来，放在阳光下曝晒。等牛皮干硬收缩，就把人箍得乌珠迸出。生活也如是:你一天天老下去，牛皮一天天紧起来。这张牛皮就是生活的规律:上班下班，吃饭排粪，连做爱也是其中的一环，一切按照时间表进行，躺在牛皮里还有一点小小的奢望ー出国，提副教授。一旦希望破灭，就撒起癔症。真他妈的扯淡！真他妈的扯淡得很！
+
+我的生活就是这样，到了四十岁，还得装丫挺的。我就像我的小和尚，被装进了中号，头也伸不直。小的时候，我头发有三个旋儿(三旋儿打架不要命—王二注)，现在只剩了一个，其他的两个歇掉了。往日的勇气，和那两个旋儿一道歇光。反正来日无多，我就和别人一样，凑合着过吧。
+
+把时光再往前推，我是一个小孩子，现在我们家的凉台上，那时候我四岁到五岁的样子，没有经历过后来的事情，所以我该把一切都遗忘。我的故事还没有开始，一切都是未知数。太阳照在我身上暖洋洋的，我扬起头来看着太阳，一点都不觉得晃眼，觉得晃眼是以后的事情;那时候它不过是一个金黄色的椭圆形罢了。当时我什么都不知道，但是心里也不是空空荡荡。爱、恨、厌倦、执着等等，像一把把张开的小伞，一样都没失去，都附着在我身上。我看着太阳，我是一团蒲公英。以后这些东西就像风中的柳絮一样飘散了。回到中国以后，我想到，这是蒲公英飘散的地方。我从这里出发寻找神奇，最后也要回到这个地方。
+
+### 人间失格
+
+若能避开猛烈的狂喜，自然不会有悲痛来袭。
+
+胆小鬼连幸福都会害怕，碰到棉花都会受伤，有时还被幸福所伤。
+
+愈是敏感、愈是胆怯，愈会企盼暴风雨降临得更加猛烈。
+
+我这一生，谈不上幸福，也谈不上不幸。
+
+与男人们的鞭笞不同，女人带来的伤痛犹如内伤，经久不愈。
+
+人啊，明明一点儿也不了解对方，错看对方，却视彼此为独一无二的挚友，一生不解对方的真性情，待一方撒手西去，还要为其哭泣，念诵悼词。
+
+现在天气开始变得很冷很冷，万物的隔阂大概也会变得越来越大了吧。
+
+---
+
+梁文道有这么一句话：读书到最后，是为了让我们更宽容地去理解这个世界有多复杂。当我们吃完生活这碗麻辣烫以后，能够微笑着双手合十，说一声”多谢款待“，也是一件很棒地事情吧
