@@ -4,7 +4,7 @@ title: 当我读书时我在想些什么
 date: 2019-01-27
 author: Teki
 image: {
-  src: "/public/images/当我在读书时我在想些什么/coverImg.jpeg",
+  src: "/images/当我在读书时我在想些什么/coverImg.jpeg",
   alt: "Cover Image",
 }
 description: 一些最近读过的书和记下来的句子。
