@@ -40,7 +40,7 @@ category: Coding
 
 > #### Tech Stack: NextAuth, GCP, Nextjs API
 
-![project folder](/public/images/post-7/frontend_structure.png "project folder")
+![project folder](/images/post-7/frontend_structure.png "project folder")
 
 - app: contains api and frontend route
   - app/api: next api, can be called while app is running, in this project used as auth and image upload.
@@ -56,7 +56,7 @@ category: Coding
 
 > #### Tech Stack: NextAuth, GCP
 
-![Auth Process](/public/images/post-7/auth_process.png "Auth Process")
+![Auth Process](/images/post-7/auth_process.png "Auth Process")
 
 #### /lib/seesion.ts
 
@@ -225,7 +225,7 @@ export default AuthProviders
 
 > #### Tech Stack: Cloudinary, Nextjs API
 
-![Image Storage](/public/images/post-7/cloudinary.png "Image Storage")
+![Image Storage](/images/post-7/cloudinary.png "Image Storage")
 
 #### /app/api/upload/route.ts
 
@@ -368,7 +368,7 @@ export const uploadImage = async (imagePath: string) => {
 
 > #### Tech Stack: Grafbase, graphql-request
 
-![Data Storage](/public/images/post-7/grafbase.png "Data Storage")
+![Data Storage](/images/post-7/grafbase.png "Data Storage")
 
 - #### Graphql Client
 

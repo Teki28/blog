@@ -4,7 +4,7 @@ title: 2020.8.14 离开东京
 date: 2020-08-14
 author: Teki
 image: {
-  src: "/images/2020.8.14 离开东京/cover image.png",
+  src: "/images/post-3/cover image.png",
   alt: "cover image",
 }
 description: 很多次想要给自己留下一些东西，每逢下笔时又不知从何写起。直到某一个瞬间，突然意识到：原来我已经在这里生活了整整一年了，原来我明天就要离开东京了。

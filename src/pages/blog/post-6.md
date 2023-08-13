@@ -4,7 +4,7 @@ title: REST API & XHR,Axios,Fetch
 date: 2023-04-03
 author: Teki
 image: {
-  src: "/images/rest/cover.png",
+  src: "/images/post-6/cover.png",
   alt: "cover image",
 }
 description: Basic concept of REST API and some usage examples at frontend side.

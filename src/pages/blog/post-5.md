@@ -4,7 +4,7 @@ title: React Memo
 date: 2023-03-17
 author: Teki
 image: {
-  src: "/images/react/cover.png",
+  src: "/images/post-5/cover.png",
   alt: "cover image",
 }
 description: Some scattered knowledge points about react.
@@ -73,7 +73,7 @@ virtual DOM + Diffing algorithm
 
 - ### lifecycle and related hooks
 
-![lifecycle diagram](/public/images/react/lifecycle.jpeg)
+![lifecycle diagram](/images/post-5/lifecycle.jpeg)
 
 - ### components
 

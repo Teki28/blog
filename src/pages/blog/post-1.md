@@ -4,7 +4,7 @@ title: State Management in React
 date: 2023-03-14
 author: Teki
 image: {
-  src: "/images/post-1.jpg",
+  src: "/images/post-1/cover.jpg",
   alt: "A picture of a coder",
 }
 description: A summary of methods often used by meself for state management in React and some example scenarios.
@@ -22,11 +22,11 @@ State is a place where we store all the data. In React, we often decouple differ
 Firstly, I want to discuss the different component structures in which state transmission is required. There are mainly three scenarios: peer components, which are rendered at the same level in the DOM tree; parent-child components, in which the child component is nested inside the parent component and also rendered by the parent component; and ancestor-descendant components, in which the descendant component is nested in the ancestor component but is different from parent-child components. The descendant component is not directly rendered by its ancestor component, and usually, some middle layers are included.
 
 - peer components
-![peer components](/images/peer_structure.png "peer components")
+![peer components](/images/post-1/peer_structure.png "peer components")
 - parent-child components
-![parent-child components](/public/images/StateManagementinReact/parent-child.png "parent-child components")
+![parent-child components](/images/post-1/parent-child.png "parent-child components")
 - ancestor-descendant components
-![ancestor-descendant components](/public/images/StateManagementinReact/ancestor-descentdant.png "ancestor-child components")
+![ancestor-descendant components](/images/post-1/ancestor-descentdant.png "ancestor-child components")
 
 ## 5 methods/libs for state management
 
@@ -267,11 +267,11 @@ export const Peer2 = (props)=>{
 - ### redux
 
 **Official Docs: <https://redux.js.org/>**
-![Redux Official Page](/public/images/StateManagementinReact/redux-official-page.png)
+![Redux Official Page](/images/post-1/redux-official-page.png)
 Redux Mechanism:
-![Redux Mechanism](/public/images/StateManagementinReact/redux.png)
+![Redux Mechanism](/images/post-1/redux.png)
 Data movement in redux:
-![data movement in redux](/public/images/StateManagementinReact/redux-gif.gif)
+![data movement in redux](/images/post-1/redux-gif.gif)
 
 A simple example using redux-toolkit:
 store.js:
@@ -425,7 +425,7 @@ export function Counter() {
 >MobX is unopinionated and allows you to manage your application state outside of any UI framework. This makes your code decoupled, portable, and above all, easily testable.
 
 **file structure**
-![file structure of mobx in React](/public/images/StateManagementinReact/file-structure-mobx.png)
+![file structure of mobx in React](/images/post-1/file-structure-mobx.png)
 
 **init store.js for each state:**
 

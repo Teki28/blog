@@ -4,7 +4,7 @@ title: System Design Note --- Distributed system, Stripe, Robinhood
 date: 2023-03-16
 author: Teki
 image: {
-  src: "/images/system-design/cover.png",
+  src: "/images/post-4/cover.png",
   alt: "cover image",
 }
 description: Recent learning on ststem design, espically distributed system.还没开始写，最近有空就写！

@@ -1,15 +1,13 @@
-# Astro Blog Tutorial
+# A personal blog by a programmer called Teki
 
-In this series, I’ll show you how to get started with the web framework Astro by building a custom blog from scratch. We’ll cover everything from building simple UI components to advanced routing, pagination, generating an RSS feed, incorporating React, Tailwind, or a CMS, and more!. In the end, we’ll publish the finished code to Netlify and I'll show you how to update your blog with each new post.
+Since you were able to read this readme, I think u r a coder too :)
+This is my personal blog, where I will upload some of my learning memo, mainly programming related but also some other topics (like ski, etc).
+I'm currently living in Japan, so I may also upload some of my experiences traveling there.
+There may be some blogs writing in Chinese, as I'm not particularly used to writing non-technical articles in English.
+If you have questions about working as a programmer in Japan, or about my life, you can contact me via github or [contact me] button in the blog.
+Hope you have a nice day!
+Ps: This blog is built with reference to the youtube video below, the technology mainly uses astro and some basic javascript syntax, deployment uses github and vercel.
 
-- Demo site: https://codinginpublic.dev/projects/astro-blog-tutorial/
-- YouTube Astro Blog Course playlist: https://youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF
+- YouTube Astro Blog Course playlist: <https://youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF>
 
 ---------------------------------------
-
-🌐 Connect With Me 🌐
-- Website: https://codinginpublic.dev
-- Blog: https://chrispennington.blog
-- Twitter: https://twitter.com/cpenned
-- Patreon: https://www.patreon.com/coding_in_public
-- Buy Me a Coffee: https://www.buymeacoffee.com/chrispennington
