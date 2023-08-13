@@ -34,7 +34,7 @@ category: Coding
 > - Authentication(api/auth, lib/session.ts)
 > - Data storage(grafbase,graphql,lib/action.ts,api/cloudinary)
 
-![system architecture](/public/images/post-7/sysImg.png "system architecture")
+![system architecture](/images/post-7/sysImg.png "system architecture")
 
 ### Frontend UI
 

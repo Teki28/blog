@@ -22,7 +22,7 @@ State is a place where we store all the data. In React, we often decouple differ
 Firstly, I want to discuss the different component structures in which state transmission is required. There are mainly three scenarios: peer components, which are rendered at the same level in the DOM tree; parent-child components, in which the child component is nested inside the parent component and also rendered by the parent component; and ancestor-descendant components, in which the descendant component is nested in the ancestor component but is different from parent-child components. The descendant component is not directly rendered by its ancestor component, and usually, some middle layers are included.
 
 - peer components
-![peer components](/public/images/StateManagementinReact/peer_structure.png "peer components")
+![peer components](/images/peer_structure.png "peer components")
 - parent-child components
 ![parent-child components](/public/images/StateManagementinReact/parent-child.png "parent-child components")
 - ancestor-descendant components
