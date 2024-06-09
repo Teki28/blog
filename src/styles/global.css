@@ -547,6 +547,11 @@ header {
   & div {
     display: grid;
     gap: var(--space-sm);
+    font-size: 1.2rem;
+  }
+  .content {
+    border-style: ridge;
+    padding: 1rem;
   }
 
   & .sidebar {
