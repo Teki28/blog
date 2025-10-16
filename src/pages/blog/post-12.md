@@ -4,7 +4,7 @@ title: Small Notes on Core Java, Volume 1
 date: 2025-10-14
 author: Teki
 image: {
-  src: "/images/post-11/cover.png",
+  src: "/images/post-12/cover.jpg",
   alt: "cover image",
 }
 description: This is a collection of notes based on the classical book - Core Java by Cay S. Horstmann. I started re-reading this book recently. Most of the notes are just very trivial and fundamental stuff but I feel it's worth to have them written down somewhere, for future relection purpose.
