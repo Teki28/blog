@@ -8,7 +8,7 @@ image: {
   alt: "cover image",
 }
 description: This is a collection of notes based on the classical book - Core Java by Cay S. Horstmann. I started re-reading this book recently. Most of the notes are just very trivial and fundamental stuff but I feel it's worth to have them written down somewhere, for future relection purpose.
-draft: true
+draft: false
 category: Coding
 ---
 
