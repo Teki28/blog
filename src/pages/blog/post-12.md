@@ -26,7 +26,7 @@ Core Concepts of Java
 - 多线程
 - 动态性
 
-## Chapter 3 - Java 基本程序结构
+## Chapter 3 - Java Basic
 ### data type
 #### 8 basic data types
 int, short, long, byte, float, double, char, boolean
