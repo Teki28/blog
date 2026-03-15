@@ -19,12 +19,12 @@ Core Concepts of Java
 - Distribution
 - Robust
 - Safety
-- 体系结构中立
-- 可移植性
-- 解释性
-- 高性能
-- 多线程
-- 动态性
+- Architecture neutral
+- Portability
+- Interpreted (bytecode runs on the JVM)
+- High performance
+- Multithreading
+- Dynamic nature
 
 ## Chapter 3 - Java Basic
 ### data type
