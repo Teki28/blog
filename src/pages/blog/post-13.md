@@ -4,7 +4,7 @@ title: System Observability
 date: 2025-10-14
 author: Teki
 image: {
-  src: "/images/post-12/cover.jpg",
+  src: "/images/post-13/cover.jpg",
   alt: "cover image",
 }
 description: A high level overview of what's observability, why do we need observability and some best practice & tools for Java observability.
