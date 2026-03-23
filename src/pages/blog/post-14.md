@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: Claude Code Note - How it works and How to make it works better
+title: LLM and Agent - How it works and How to make it works better
 date: 2026-03-15
 author: Teki
 image: {
@@ -69,7 +69,7 @@ LLM cannot reflect on its own output and correct mistakes autonomously. Users ha
 
 With all the limitations above, LLM alone cannot handle many real-world scenarios. This is where agents come in.
 
-## Why Agent (Claude Code) works so well
+## Why Agent works so well
 
 An agent is a system that combines LLM with other components — tools, memory, planning, self-reflection — to overcome those limitations. Let's look at how each component works.
 
@@ -138,20 +138,20 @@ AI is not a magic wand. It's a tool that can help you solve problems, but you ha
 
 ### Basic guidelines
 
-**A clear goal is always helpful.**
+#### A clear goal is always helpful.
 An agent is a self-iterating system with a built-in ReAct loop — it only stops when it thinks it has completed the task. A clear goal helps the agent decide when to stop, making it more accurate and cost-effective.
 
-**Plan before action.**
+#### Plan before action.
 This is a common principle even for humans. Next time you ask an agent to do something, ask it to make a plan first. Review the plan yourself, then only ask it to execute once you're satisfied.
 
-**Don't ask AI to build a house — ask it to build one brick at a time.**
+#### Don't ask AI to build a house — ask it to build one brick at a time.
 Treat AI like an intern: you don't want to stifle its creativity, but you also don't want to give it so much freedom that it goes off track. Always think about whether a task is too large, and break it down if needed.
 
-**Examples are always helpful.**
+#### Examples are always helpful.
 LLM is good at learning from (and copying) examples. If you have a clear idea of what the output should look like, give it an example — a screenshot for a UI task, or a code snippet for a function. The output will be much better than a textual description alone.
 
-**Ask AI to take notes for you.**
+#### Ask AI to take notes for you.
 Keep a changelog and ask the AI to update it every time a change is made. This way you can always review what's been done. You can also ask the AI to check its notes before taking any action.
 
-**Never trust AI 100%.**
+#### Never trust AI 100%.
 This sounds like a cliché but it's hard to follow in practice. When you start throwing tasks at AI, you'll be amazed by its power and gradually start trusting it more — sometimes blindly. It always feels good to keep clicking "accept" and move on to the next task. But remember: it's still a black-box, and when it makes mistakes, they can be serious ones.
