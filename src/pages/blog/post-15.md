@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
 title: Claude Code - Comprehensive Learning Notes
-date: 2026-03-31
+date: 2026-03-30
 author: Teki
 image: {
   src: "/images/post-15/cover.png",
